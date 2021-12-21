@@ -7,7 +7,7 @@
     "shape": "фигурка",
     "color": "белый",
     "size": "средний",
-    "favorite": false
+    "favorite": true
   },
   "1": {
     "num": 1,
@@ -57,7 +57,7 @@
     "shape": "фигурка",
     "color": "красный",
     "size": "средний",
-    "favorite": false
+    "favorite": true
   },
   "6": {
     "num": 6,
@@ -117,7 +117,7 @@
     "shape": "шишка",
     "color": "белый",
     "size": "малый",
-    "favorite": false
+    "favorite": true
   },
   "12": {
     "num": 12,
@@ -187,7 +187,7 @@
     "shape": "шар",
     "color": "желтый",
     "size": "большой",
-    "favorite": false
+    "favorite": true
   },
   "19": {
     "num": 19,
@@ -227,7 +227,7 @@
     "shape": "шишка",
     "color": "желтый",
     "size": "малый",
-    "favorite": false
+    "favorite": true
   },
   "23": {
     "num": 23,
@@ -267,7 +267,7 @@
     "shape": "шар",
     "color": "желтый",
     "size": "большой",
-    "favorite": false
+    "favorite": true
   },
   "27": {
     "num": 27,
@@ -447,7 +447,7 @@
     "shape": "фигурка",
     "color": "красный",
     "size": "средний",
-    "favorite": false
+    "favorite": true
   },
   "45": {
     "num": 45,
@@ -527,7 +527,7 @@
     "shape": "шар",
     "color": "красный",
     "size": "большой",
-    "favorite": false
+    "favorite": true
   },
   "53": {
     "num": 53,
